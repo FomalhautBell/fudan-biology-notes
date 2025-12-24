@@ -5,8 +5,6 @@ Notes for Biological Sciences Bachelor professional courses in Fudan University.
 
 ## 25 Spring
 
-
-
 ```
 25 Spring
 ├── 干细胞与发育.pdf
@@ -14,12 +12,7 @@ Notes for Biological Sciences Bachelor professional courses in Fudan University.
 ├── 生物化学A_I.pdf
 ╰── 细胞生物学.pdf
 ```
-
-
-
 ## 25 Fall
-
-
 
 ```
 25 Fall
