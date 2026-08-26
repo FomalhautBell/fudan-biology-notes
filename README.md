@@ -25,8 +25,8 @@ Notes for Biological Sciences Bachelor professional courses in Fudan University.
 
 ```
 26 Spring
-├── 病毒学.pdf
-├── 遗传学.pdf
-╰── 微生物学.pdf
+├── 生物化学A_II.pdf
+├── 医学人类学.pdf
+╰── 生物科研与伦理.pdf
 ```
 
